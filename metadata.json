@@ -1,0 +1,8 @@
+{
+  "name": "AI Cloud College",
+  "description": "Master Cloud, AI & DevOps with emotionally-intelligent AI avatar tutors. Real labs, real-time video calls, personalized coaching.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
